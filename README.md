@@ -2,6 +2,8 @@
 
 ## 🔬️ Explore the [example] to see how everything works.
 
+## 📦 [https://pub.dev/packages/flutter_fancy_tree_view]
+
 ## 📸️ Screenshots:
 
 |     Connected Lines      |     Scoped Lines      |     Disabled Lines      |
